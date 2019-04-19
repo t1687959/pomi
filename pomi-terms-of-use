@@ -1,0 +1,624 @@
+<html>
+
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <style type="text/css">
+        ol {
+            margin: 0;
+            padding: 0
+        }
+
+        table td,
+        table th {
+            padding: 0
+        }
+
+        .c0 {
+            color: #000000;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c9 {
+            color: #444444;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 10pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c7 {
+            color: #000000;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        .c4 {
+            color: #000000;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c8 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.15;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+
+        .c1 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.15;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c6 {
+            background-color: #ffffff;
+            padding: 72pt 72pt 72pt 72pt
+        }
+
+        .c10 {
+            background-color: #ffffff;
+            font-size: 11.5pt
+        }
+
+        .c5 {
+            font-style: italic
+        }
+
+        .c2 {
+            height: 11pt
+        }
+
+        .c3 {
+            font-weight: 700
+        }
+
+        .title {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 26pt;
+            padding-bottom: 3pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .subtitle {
+            padding-top: 0pt;
+            color: #666666;
+            font-size: 15pt;
+            padding-bottom: 16pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        li {
+            color: #000000;
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        p {
+            margin: 0;
+            color: #000000;
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        h1 {
+            padding-top: 20pt;
+            color: #000000;
+            font-size: 20pt;
+            padding-bottom: 6pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h2 {
+            padding-top: 18pt;
+            color: #000000;
+            font-size: 16pt;
+            padding-bottom: 6pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h3 {
+            padding-top: 16pt;
+            color: #434343;
+            font-size: 14pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h4 {
+            padding-top: 14pt;
+            color: #666666;
+            font-size: 12pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h5 {
+            padding-top: 12pt;
+            color: #666666;
+            font-size: 11pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h6 {
+            padding-top: 12pt;
+            color: #666666;
+            font-size: 11pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            font-style: italic;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+    </style>
+</head>
+
+<body class="c6">
+    <p class="c8"><span class="c3">&nbsp;</span><span class="c4 c3">POMi - TERMS OF USE</span></p>
+    <p class="c8"><span class="c0">Version 1.0</span></p>
+    <p class="c8"><span class="c0">Effective Date: 12/04/2019</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">These terms and conditions (hereinafter &quot;Terms&quot;) govern Your use of Our
+            application, &quot;POMi&quot; which is hereinafter referred to as &quot;the Product&quot; and is available
+            at: Google Play Store, Apple App Store</span></p>
+    <p class="c1"><span class="c0">The Product is owned and operated by: 8bhsolutions</span></p>
+    <p class="c1"><span class="c0">These Terms constitute a binding contract between You and: 8bhsolutions </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">In connection with Your use of the Product, we may also provide You with access to
+            various other content, documentation, materials, information, goods or services. In these Terms, we refer to
+            all of these items collectively as &quot;the Items&quot;.</span></p>
+    <p class="c1"><span class="c0">These Terms will govern Your use of all pages of the Product, as well as Your use of
+            the Items.</span></p>
+    <p class="c1"><span class="c0">If You continue to use the Product, You acknowledge that You have been given the
+            chance to review the Terms. You acknowledge that You understand the Terms and that You agree to be bound by
+            the Terms. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">If You do not understand the Terms, if You do not agree to be bound by the Terms, or
+            if You need more time to review and consider the Terms, then You must stop using the Product
+            immediately.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">1. DEFINITIONS</span></p>
+    <p class="c1"><span class="c5">&quot;Company IP&quot;</span><span class="c0">&nbsp;includes, but is not limited to,
+            the contents, layout, design, colours, appearance, graphics and imagery of the Product, Content and
+            Materials as well as all copyrights, trademarks, trade secrets, patents and other intellectual property
+            contained in the Product, Content and Materials.</span></p>
+    <p class="c1 c2"><span class="c7 c5"></span></p>
+    <p class="c1"><span class="c5">&quot;Content&quot;</span><span class="c0">&nbsp;means any content, writing, images,
+            audiovisual content or other information published on the Product.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Contract&quot;</span><span class="c0">&nbsp;means these terms and
+            conditions.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Dispute&quot; </span><span class="c0">means any dispute, controversy or claim
+            arising out of or in relation to these Terms, including any dispute, controversy or claim relating to the
+            existence, validity or termination of these Terms.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Effective Date&quot;</span><span class="c0">&nbsp;means the date that these
+            Terms come into force.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Items&quot;</span><span class="c0">&nbsp;means any and all of the Product,
+            Content and Materials collectively.</span></p>
+    <p class="c1"><span class="c5">&quot;Materials&quot;</span><span class="c0">&nbsp;means any materials, information
+            or documentation that We may provide to You in connection with Your use of the Product including
+            documentation, data, information developed by Us or owned by Us, and other materials which may assist in
+            Your use of Product.</span></p>
+    <p class="c1"><span class="c5">&quot;Parties&quot;</span><span class="c0">&nbsp;means both You (the user of the
+            Product) and Us (the owner of the Product) collectively.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Product&quot; </span><span class="c0">means the mobile application called
+            &quot;POMi&quot; including all pages, all sub pages, all blogs, all forums, and all other connected internet
+            content whatsoever which is available at: Google Play Store, Apple App Store</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Terms&quot;</span><span class="c0">&nbsp;means these terms and
+            conditions.</span></p>
+    <p class="c1"><span class="c5">&quot;Third Party Links&quot; </span><span class="c0">means links or references to
+            websites or applications other than the Product, to content other than the Content or to materials other
+            than the Materials, none of which are controlled by Us.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Us&quot;, &quot;We&quot;, &quot;Our&quot; </span><span>or &quot;</span><span
+            class="c5">the Owner&quot;</span><span class="c0">&nbsp;refers to 8bhsolutions</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Us&quot;, &quot;We&quot;, &quot;Our&quot; </span><span>or &quot;</span><span
+            class="c5">the Owner&quot;</span><span class="c0">&nbsp;also includes any employees, affiliates, agents or
+            other representatives of 8bhsolutions</span></p>
+    <p class="c1"><span class="c5">&quot;You&quot; </span><span>or </span><span class="c5">&quot;Your&quot;</span><span
+            class="c0">&nbsp;refers to the user of the Product.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c5">&quot;Your Content&quot;</span><span class="c0">&nbsp;means any Content posted to or
+            added to the Product, Content or Materials by You or by somebody authorised by You or doing so on Your
+            behalf.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">2. INTERPRETATION</span></p>
+    <p class="c1"><span class="c0">a. In these Terms, unless the context otherwise requires, the following rules of
+            interpretation shall apply:</span></p>
+    <p class="c1"><span class="c0">I. Words referring to one gender include every other gender.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">II. Words referring to a singular number include the plural, and words referring to a
+            plural include the singular.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">III. Words referring to a person or persons includes companies, firms, corporations,
+            organisations and vice versa.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">IV. Any obligation on a Party not to do something includes an obligation not to allow
+            that thing to be done.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">3. YOUR AGREEMENT AND REPRESENTATIONS</span></p>
+    <p class="c1"><span class="c0">a. By continuing to use the Product and the Items You warrant and acknowledge that
+            You have had the chance to review and consider the Terms, that You understand the Terms and that You agree
+            to be bound by the Terms. If You do not understand the Terms or do not agree to be bound by them then you
+            must stop using the Items immediately. We only agree to provide use of the Items to You if You agree to
+            these Terms.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. By continuing to use the Product and the Items You represent and warrant to Us
+            that You have legal capacity to enter these Terms.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. By continuing to use the Product and the Items You represent and warrant to Us
+            that You have complied with all of these Terms.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">4. AGE RESTRICTION</span></p>
+    <p class="c1"><span class="c0">a. In order to use the Items, you must be aged at least 18 years.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. By using the Items, You represent and warrant that You are aged at least 18
+            years.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>c. </span><span class="c0">You warrant that, if you are under the age of 18 years, that you have
+            received the permission of your parents or guardians to use the Items.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>d. We accept no responsibility or liability for any misrepresentation of Your age.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">5. LICENCE TO USE PRODUCT, CONTENT AND MATERIALS</span></p>
+    <p class="c1"><span class="c0">a. We may provide You with certain other Items in connection with Your use of the
+            Product.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. Subject to these Terms, We grant You a licence to use the Product, Content and
+            Materials solely in connection with Your use of the Items. The licence created under these Terms is
+            non-exclusive, limited, non-transferable, worldwide and revocable.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. You may not use the Product, Content or Materials for any purpose other than in
+            accordance with the licence that is provided under this clause, and this licence to use the Product, Content
+            and Materials terminates upon Your cessation of use of the Items or upon termination of this
+            Contract.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">6. EXCLUSION OF LIABILITY</span></p>
+    <p class="c1"><span class="c0">a. The Product, Content and Materials are provided for general information only and
+            may change at any time without prior notice.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. You accept and acknowledge that the Items may contain mistakes, bugs, errors and
+            inaccuracies.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c Your use of the Product, Content and Materials is entirely at Your risk. It is Your
+            responsibility to make sure that any Goods, Services, Materials, Content or other information available
+            through the Product suits Your particular purpose.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">d. Neither We, nor any third parties, provide any guarantees or warranties regarding
+            the accuracy, completeness, performance, reliability, timeliness, quality, merchantability, safety, legality
+            or suitability for a particular purpose of the Items.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">e. To the maximum extent permitted by law, We hereby expressly exclude all
+            warranties, guarantees, representations or terms (whether express or implied) except for those expressly set
+            out in these Terms. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">f. To the maximum extent permitted by law, We hereby expressly exclude any liability
+            in relation to the accuracy, completeness, performance, reliability, timeliness, quality, merchantability,
+            safety, legality or suitability for a particular purpose of the Items.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">g. To the maximum extent permitted by law, We hereby expressly exclude any liability
+            in relation to loss of data, interruption to Your business or any damages which are incidental to or arise
+            from such loss of data or interruption to business.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">h. To the maximum extent permitted by law, We will not be liable for any damage,
+            loss, cost or expense including legal costs and expenses, whether direct or indirect, incurred by You in
+            connection with Your use of the Items. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">i. for Goods and/or Services sold by third parties via the Product or via Third Party
+            Links (hereinafter &quot;Third Party Goods and Services&quot;):</span></p>
+    <p class="c1"><span class="c0">I. You acknowledge and agree that We have no control over those Third Party Goods and
+            Services and that You purchase such Third Party Goods and Services at Your own risk.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">II. You acknowledge and agree that We assume no liability and provide no warranties
+            or guarantees regarding the accuracy, completeness, performance, reliability, timeliness, quality,
+            merchantability, safety, legality or suitability for a particular purpose of Third Party Goods and
+            Services.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">III. For any claim You may have against the third party provider of the Third Party
+            Goods and Services (such as the manufacturer or vendor) You agree to pursue that claim directly with that
+            third party provider of the Third Party Goods and Services and not with Us. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">IV. To the maximum extent permitted by law, You hereby release Us from any claim
+            related to Third Party Goods and Services including any and all warranty and product liability
+            claims.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c3">IMPORTANT: NOT A REPLACEMENT FOR YOUR REGIONAL EMERGENCY SERVICES (eg: 000, 911, 999,
+            112, etc)</span><span>. The Items are </span><span>not</span><span>&nbsp;a replacement for regional
+            emergency services. If you are in immediate danger, are suffering a medical emergency or are the victim of a
+            crime, ALERT YOUR REGIONAL EMERGENCY SERVICES and/or the appropriate authorities and do not rely on this
+            service. Even if your smartphone app show connectivity, WE do not guarantee and has no control over whether
+            any alerts, messages, emails, push notifications or any other functions and services will be delivered
+            real-time, immediately accessed by or responded to by any recipient or emergency responder.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">7. INDEMNITY</span></p>
+    <p class="c1"><span class="c0">You hereby indemnify Us (which, for the sake of clarity, also includes any of Our
+            employees, affiliates, agents or other representatives) and You agree to defend Us and to hold Us harmless
+            in relation to any and all claims, suits, demands, actions, liabilities, costs and expenses (including legal
+            costs and expenses on a full indemnity basis) which may arise from or relate to Your use or misuse of the
+            Items. You agree that We may select Our own legal representation and may participate in Our own legal
+            proceedings if We choose.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">8. TERMINATION</span></p>
+    <p class="c1"><span class="c0">a. We may immediately terminate these Terms at any time, with or without cause.
+        </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. We specifically reserve the right to terminate these Terms if You breach these
+            Terms in any way. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. These Terms terminate automatically if we cease to operate the Product for any
+            reason.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">d. If You have registered for an account with Us, You may terminate these Terms at
+            any time by contacting Us and requesting termination.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">e. At the termination of these Terms, any provisions which would by their nature be
+            expected to survive termination shall remain in full force and effect, including but not limited to Our
+            exclusions of liability as outlined in the &quot;Exclusions of Liability&quot; clause.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">9. THIRD-PARTY FEES</span></p>
+    <p class="c1"><span>Our Product utilises Your mobile devices network services, such as and not limited to: SMS
+        </span></p>
+    <p class="c1"><span>and data services. </span><span class="c10">You are responsible for any access or data fees
+            incurred from the third-parties in connection to the use of the Product.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c4 c3">10. ACCEPTABLE USE</span></p>
+    <p class="c1"><span class="c0">a. You agree not to use the Product or the Items for any unlawful purpose or any
+            purpose prohibited under this clause. You agree not to use the Product or the Items in any way that could
+            damage the Product, the Items, or Our general business. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. You further agree not to use the Product or the Items:</span></p>
+    <p class="c1"><span class="c0">I. to harass, abuse, or threaten any other person or to otherwise violate any other
+            person&#39;s legal rights;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">II. to violate any intellectual property rights of Us or of any third party;</span>
+    </p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">III. to upload or otherwise disseminate any computer viruses or other software that
+            may damage the property of another;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">IV. to commit any kind of fraud;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">V. to engage in or create any unlawful gambling, sweepstakes or pyramid
+            schemes;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">VI. to publish or distribute any obscene or defamatory material;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">VII. to publish or distribute any material that incites violence, hatred or
+            discrimination towards any person, group or community;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">VIII. to unlawfully gather information about others.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">IX. for any commercial purpose or for the benefit of any third party or in any manner
+            not permitted by these Terms;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">X. to send altered, deceptive or false sourcing-identifying information;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">XI. to track the location of, or collect any personally identifiable information
+            from, any other person without their express permission;</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. Unauthorised use by You of the Items may be a criminal offence and may give rise
+            to a claim for damages.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">11. VARIATION OF TERMS</span></p>
+    <p class="c1"><span class="c0">a. You hereby acknowledge and agree that these Terms may be varied or amended from
+            time to time in Our sole discretion. If You continue to use the Product following any such variation or
+            amendment You will be deemed to have confirmed and agreed to the new Terms as varied or amended. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. You agree to routinely monitor these Terms and to refer to the Effective Date
+            posted at the top of these Terms in order to monitor any modifications or variations. You further agree to
+            clear Your cache when doing so in order to avoid accessing a prior version of these Terms. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. In the event that You fail to monitor any modifications to or variations of these
+            Terms, You agree that such failure shall be considered an affirmative waiver of Your right to review the
+            modified or varied Terms.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">12. THIRD PARTY LINKS</span></p>
+    <p class="c1"><span class="c0">a. You hereby acknowledge that We may from time to time include links or references
+            to other websites, other content or other materials (hereinafter &quot;Third Party Links&quot;), none of
+            which are controlled by Us.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. You hereby acknowledge that these Third Party Links are provided for Your
+            information only and that We do not make any representations, warranties or guarantees as to the accuracy,
+            completeness, performance, reliability, timeliness, quality or suitability for a particular purpose of these
+            Third Party Links. We do not endorse, approve or support these Third Party Links. You use the Third Party
+            Links at Your own risk.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">13. AFFILIATE MARKETING AND ADVERTISING</span></p>
+    <p class="c1"><span class="c0">a. Through the Product and other Items, We may engage in affiliate marketing whereby
+            We receive a commission on or a percentage of proceeds of sales of Third Party Goods and Services that occur
+            through Our Product and other Items. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. Through the Product and other Items, We may accept advertising and sponsorships
+            from commercial businesses whereby third parties pay us to advertise on the Product or through Our other
+            Items, or we may receive other forms of advertising compensation.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">14. CHANGES TO PRODUCT</span></p>
+    <p class="c1"><span class="c0">a. You acknowledge and agree that We may, in Our sole discretion, vary, alter, amend,
+            change or update the Content, Materials or the Product at any time.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. You acknowledge, agree and accept that the Product may be unavailable from time to
+            time (whether it is unavailable due to maintenance or for any other reason).</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. You acknowledge, agree and accept that We take no responsibility for, and to the
+            maximum extent permitted by law we shall not be liable in any way for the Items being temporarily
+            unavailable, whether due to reasons within our control or not.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">15. INTELLECTUAL PROPERTY</span></p>
+    <p class="c1"><span class="c0">a. The Items contain intellectual property that is owned by Us and/or that is
+            licensed to Us. This includes, but is not limited to, the contents, layout, design, colours, appearance,
+            graphics and imagery of the Product, Content, Materials and Goods as well as all copyrights, trademarks,
+            trade secrets, patents and other intellectual property contained in the Items (hereinafter &quot;Company
+            IP&quot;).</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. You hereby acknowledge and agree that, as between Us and You, We own all
+            intellectual property rights in the Items and that nothing in these Terms amounts to a transfer of any
+            intellectual property rights from Us to You.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. You hereby acknowledge and agree not to use the Company IP for any unlawful or
+            infringing purpose. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">d. You hereby acknowledge and agree not to reproduce or distribute the Company IP in
+            any way, including electronically or via registration of any new trademarks, trade names, service marks or
+            Uniform Resource Locators (URLs) without express written permission from Us.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>e. If You provide any suggestions, ideas, feedback, or recommendations to us regarding the Items
+            (hereinafter &ldquo;Feedback&rdquo;), we may use this Feedback for any purpose and without any obligation to
+            you. By providing us with Feedback, you give us a worldwide, perpetual, irrevocable, fully-paid and
+            royalty-free license to use and exploit in any manner, for any and all Feedback.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">f. All of the provisions of this clause in relation to &quot;Intellectual
+            property&quot; shall survive any termination of these Terms.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c3 c4">16. PRIVACY</span></p>
+    <p class="c1"><span class="c0">a. Through Your use of the Product or other Items, You may provide Us with some of
+            Your personal information. By using the Product or Items, You authorise Us to use Your information in
+            Australia and any other country where We operate. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">b. We take Our privacy obligations very seriously. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">c. Please refer to Our privacy policy for further information about what information
+            We collect, how We use it and store it, and Your rights in relation to it.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c4 c3">17. REVERSE ENGINEERING AND SECURITY</span></p>
+    <p class="c1"><span class="c0">You agree not to:</span></p>
+    <p class="c1"><span class="c0">a. reverse engineer, or attempt to reverse engineer or disassemble any code or
+            software from or on the Items; and</span></p>
+    <p class="c1"><span class="c0">b. violate the security of the Items through any unauthorised access, circumvention
+            of encryption or other security tools, data mining or interference with any host, user or network.</span>
+    </p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">18. GENERAL PROVISIONS</span></p>
+    <p class="c1"><span>a. </span><span class="c3">Australian Consumer Law:</span><span>&nbsp;You may have certain
+            rights, warranties, guarantees and remedies under the </span><span class="c5">Australian Consumer
+            Law</span><span>, which is contained in the </span><span class="c5">Competition and Consumer Act 2010
+            (Cth),</span><span>&nbsp;and these rights, warranties, guarantees and remedies may not be restricted,
+            modified or excluded by Us. Our liability to you is governed solely by these Terms and the </span><span
+            class="c5 c7">Australian Consumer Law.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>b. </span><span class="c3">Applicable law:</span><span class="c0">&nbsp;Your use of the Product
+            and the Items is subject to the laws of Victoria and each party submits to the jurisdiction of the courts of
+            Victoria.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>c. </span><span class="c3">Written communication:</span><span class="c0">&nbsp;In relation to
+            any correspondence or notification which is required under these Terms to be provided in writing from one
+            party to the other party:</span></p>
+    <p class="c1"><span class="c0">I. such notice is properly given if given to the other party:</span></p>
+    <p class="c1"><span class="c0">A. by email to an email address that the other party has nominated, acknowledged or
+            used in connection with the use of the Product or other Items.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">B. by facsimile to a facsimile address which the other party has nominated,
+            acknowledged or used in connection with the use of the Product or other Items.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">C. by post to a postal address the other party has nominated, acknowledged or used in
+            connection with the use of the Product or other Items.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">II. such notice is taken to be received:</span></p>
+    <p class="c1"><span class="c0">A. if sent by email, when the email becomes capable of being retrieved by the
+            recipient at the relevant email address.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">B. if sent by facsimile, at the time shown of correct and complete transmission to
+            the recipient&#39;s facsimile number by the sending machine.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">C. if sent by prepaid post within Australia, five (5) days after the date of
+            posting.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">D. if sent by prepaid post to or from an address outside Australia, twenty one (21)
+            days after the date of posting.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>d.</span><span class="c3">&nbsp;No assignment: </span><span class="c0">You must not assign,
+            sub-licence or otherwise deal in any way with your rights under these Terms without Our prior written
+            consent.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>e. </span><span class="c3">Severability:</span><span class="c0">&nbsp;If any clause or
+            sub-clause of these Terms is held to be invalid or unenforceable, it is to be read down or severed such that
+            the remaining clauses and sub-clauses will be enforced to the maximum extent possible. In such
+            circumstances, the remainder of these Terms shall continue in full force and effect.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>f. </span><span class="c3">No waiver: </span><span class="c0">In the event that We fail to
+            enforce any provision of these Terms, this shall not constitute a waiver of any future enforcement of that
+            provision or of any other provision. Waiver of any clause or sub-clause of these Terms will not constitute a
+            waiver of any other clause or sub-clause. </span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>g. </span><span class="c3">Headings for convenience only: </span><span class="c0">Headings of
+            clauses and sub-clauses under these Terms are for convenience only. Headings shall not affect the meaning of
+            any provision of these Terms.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>h. </span><span class="c3">Parties must take all reasonable steps: </span><span class="c0">Each
+            party must, at its own expense, take all reasonable steps and do all that is reasonably necessary to give
+            full effect to these Terms and the events contemplated by them.</span></p>
+    <p class="c1 c2"><span class="c0"></span></p>
+    <p class="c1"><span>i. </span><span class="c3">Separate agreements:</span><span class="c0">&nbsp;You may have other
+            legal agreements with Us. Those other legal agreements are separate from and are in addition to these Terms.
+            These Terms do not alter, amend, revise or replace the terms of any other legal agreements You may have with
+            Us.</span></p>
+    <p class="c1 c2"><span class="c4 c3"></span></p>
+    <p class="c1"><span class="c4 c3">19. CONTACT US</span></p>
+    <p class="c1"><span class="c0">You can contact us about these Terms using the following details:</span></p>
+    <p class="c1"><span>8bhsoltuions@gmail.com</span></p>
+</body>
+
+</html>
